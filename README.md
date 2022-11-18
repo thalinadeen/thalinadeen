@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thalinadeen
-- 👀 I’m interested in development tools
+- 👀 I’m interested in development tools like html, css, javacript, python ...
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on anything
 - 📫 You can reach me on my email or via github
